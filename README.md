@@ -1,2 +1,2 @@
 # Node.js
-Signup and loghin
+Signup and login
